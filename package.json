@@ -1,0 +1,23 @@
+{
+  "name": "javascript-chat",
+  "version": "1.0.0",
+  "description": "chat",
+  "main": "index.js",
+  "scripts": {
+    "dev": "",
+    "start": "node src/index.js"
+  },
+  "keywords": [],
+  "author": "Joshua Espinoza",
+  "license": "ISC",
+  "dependencies": {
+    "express": "*",
+    "socket.io": "*"
+  },
+  "devDependencies": {
+    "nodemon": "^1.17.5"
+  },
+  "engines": {
+    "node" : "10.5.0"
+  }
+}
